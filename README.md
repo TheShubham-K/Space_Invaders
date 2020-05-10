@@ -16,5 +16,6 @@ This is a space Invader Game, If u Want to be a Space Warrior, and Want to Kick 
 
 # Contributors.
 
-- Sourabh Kumar(skumardas267@gmail.com)
-- Shubham Kumar(subham.kumar032@gmail.com)
+- <a href="https://github.com/skumardas267">Sourabh Kumar</a>
+- <a href="https://github.com/shubham-sys">Shubham Kumar</a>
+
